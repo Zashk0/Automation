@@ -1,6 +1,3 @@
-
-Creating a README.md for a Python project focused on calendar automation involves explaining the purpose, features, installation process, usage, and any other relevant information about the project. Here's an example structure for your README.md:
-
 Python Calendar Automation Project
 Introduction
 This project aims to automate various tasks related to calendar management. It is built in Python and offers a range of functionalities to interact with and manage calendar events.
@@ -44,4 +41,4 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For any queries or suggestions, feel free to contact us at [alexanderharalampiev9@gmail.com].
+For any queries or suggestions, feel free to contact us at [your-email@example.com].
