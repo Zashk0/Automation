@@ -48,9 +48,7 @@ We welcome contributions. Please fork the repository, make your changes, and sub
 This project is licensed under the MIT License - see the LICENSE file for more details.
 
 ## Contact
-For queries or suggestions, reach out to us at [your-email@example.com].
+For queries or suggestions, reach out to us at [alexanderharalampiev9@gmail.com].
 ```
 
----
 
-Replace placeholders like `<repository URL>` and `[your-email@example.com]` with the actual URL of your repository and your contact email. This template provides a comprehensive guide for users to understand, install, and use your calendar automation tool.
